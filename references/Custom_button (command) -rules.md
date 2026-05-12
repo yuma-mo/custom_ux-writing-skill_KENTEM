@@ -1,3 +1,8 @@
+## Scope
+
+This rule applies only to the following UI components.
+* button
+
 ***
 
 ## ✅ Good Examples (Meet All Rules)
