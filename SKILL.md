@@ -22,13 +22,13 @@ Use this skill when:
 - Auditing product content for consistency and usability
 
 Refer to the following file only when evaluating the button component.
--`references/Custom_button(command)-rules.md`
+- `references/Custom_button(command)-rules.md`
 
 Refer to the following file only when evaluating the title component.
--`references/Custom_screen title-rules.md`
+- `references/Custom_screen title-rules.md`
 
 Refer to the following file only when evaluating the explanation component.
--`references/Custom_explanation-rules.md`
+- `references/Custom_explanation-rules.md`
 
 Do not refer to it otherwise (to avoid excessive restrictions).
 
